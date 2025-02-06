@@ -1,8 +1,4 @@
-# React + Vite
+How is state and props are working in the application?
+-Props are used to pass data from the parent components to the children
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-State is used to handle data that changes over time, in this application it is especially useful for adding additional interactivity in the components
